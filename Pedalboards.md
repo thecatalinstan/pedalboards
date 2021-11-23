@@ -1,9 +1,7 @@
 # Small Board (gig):
 
--  
-
 | Have | Role | Pedal | Size | Power |
-|---|---|---|---|---|
+|:-:|---|---|:-:|--:|
 || **Board** | [Harley Benton SpaceShip 50C](https://www.thomann.de/intl/harley_benton_spaceship_50c.htm) |  |  |
 || **Power** | [Harley Benton PowerPlant ISO-5 Pro](https://www.thomann.de/intl/harley_benton_powerplant_iso_5_pro.htm) |  |  |
 |||||
@@ -17,7 +15,7 @@
 # Large Board (home):
 
 | Have | Role | Pedal | Size | Power |
-|---|---|---|---|---|
+|:-:|---|---|:-:|--:|
 | √ | **Board** | [Harley Benton SpaceShip 60](https://www.thomann.de/intl/harley_benton_spaceship_60.htm) |  |  |
 | √ | **Power** | [Harley Benton PowerPlant ISO-10AC Pro](https://www.thomann.de/intl/harley_benton_powerplant_iso_10ac_pro.htm) |  |  |
 ||||||
@@ -34,7 +32,7 @@
 # The Awesome One
 
 | Have | Role | Pedal | Size | Power |
-|---|---|---|---|---|
+|:-:|---|---|:-:|--:|
 | √ | **Board** | [Harley Benton SpaceShip 40](https://www.thomann.de/intl/harley_benton_spaceship_40.htm) |  |  |
 || **Power** | [Harley Benton PowerPlant ISO-2AC Pro Modular](https://www.thomann.de/intl/harley_benton_powerplant_iso_2ac_pro_modular.htm) \* |  |  |
 |||||
