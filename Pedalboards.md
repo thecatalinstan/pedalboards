@@ -41,4 +41,4 @@
 || **Lead** | [Maxon OD-808](https://www.thomann.de/intl/maxon_od808.htm) | 62 x 112 | 5 |
 || **Clean/Hi Gain** | [Ceriatone Horse Breaker Overdrive](https://www.andertons.co.uk/guitar-dept/guitar-pedals/overdrive-pedals/ceriatone-horse-breaker-overdrive-pedal-black) | 140 x 123 | 100 |
 || **Chorus** | [Strymon Ola Chorus Vibrato](https://www.thomann.de/intl/strymon_ola.htm) | 102 x 114 | 250 |
-|| **Delay/Reverb** | [Keeley Caverns Delay Reverb V2](https://www.thomann.de/intl/keeley_caverns_delay_reverb_v2.htm) | 120 x 95 | 75 |
+|| **Delay/Reverb** | [Keeley Caverns Delay Reverb V2](https://www.thomann.de/intl/keeley_caverns_delay_reverb_v2.htm) | 95 x 120 | 75 |
